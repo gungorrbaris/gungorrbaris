@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h2 align="center">Student at Hacettepe
+<h2 align="center">Statistics student at Hacettepe
 <br>
 
 
