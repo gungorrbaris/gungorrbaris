@@ -6,7 +6,7 @@
 
   
   
-<p><img align="right" src="https://github.com/gungorrbaris/gungorrbaris/blob/main/date-everywhere-data.gif" alt="gungorrbaris" height="200" width="200" /></p>
+<p><img align="right" src="https://github.com/gungorrbaris/gungorrbaris/blob/main/date-everywhere-data.gif" alt="gungorrbaris" height="250" width="250" /></p>
 <br>
 
 
