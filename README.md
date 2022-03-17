@@ -41,7 +41,12 @@
       width="40" height="40" /> 
       <img src="https://user-images.githubusercontent.com/29695545/46472992-89ea3300-c7e7-11e8-95bb-b47507b6f6cb.jpg" alt="sql"
       width="80" height="40" />
-
+    <img src="https://img.utdstc.com/icon/b26/4ba/b264ba409e402f7b4c5300e12a10f3bf93855836363b1cd6845f11c7d9175d12:200" alt="spss"
+      width="40" height="40" />
+   <img src="https://bilisimkitabi.com/portal/upload/post/61a7b1c6f3d02_7-minitab.jpg" alt="minitab"
+      width="80" height="40" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="minitab"
+      width="80" height="40" />
 <br>
 
 
