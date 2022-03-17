@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 <h2 align="center">Statistics student at Hacettepe
 <br>
+<br>
+<br>
 
 
 
   
   
-<p><img align="right" src="https://github.com/gungorrbaris/gungorrbaris/blob/main/date-everywhere-data.gif" alt="gungorrbaris" height="250" width="250" /></p>
+<p><img align="center" src="https://github.com/gungorrbaris/gungorrbaris/blob/main/date-everywhere-data.gif" alt="gungorrbaris" height="300" width="300" /></p>
+<br>
+<br>
 <br>
 
 
