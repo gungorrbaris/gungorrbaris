@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Barış</h1>
+<h1 align="center">Hi, I'm Barış <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32"> </h1>
 <h2 align="center">Statistics student at Hacettepe
 <br>
 <br>
