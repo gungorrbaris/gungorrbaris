@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Barış🖖🏼
-<h2 align="center">Statistics student at Hacettepe
+<h2 align="center">
 <br>
 <br>
 
