@@ -10,7 +10,7 @@
 <br>
 
 
-- 🌱 I’m currently learning data analysis methods with R and Python.
+<!-- - 🌱 I’m currently learning data analysis methods with R and Python. -->
 
 - 📫 How to reach me **gungorrbaris@gmail.com**
 
