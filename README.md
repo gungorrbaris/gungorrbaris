@@ -1,10 +1,11 @@
+<p> <img align="center" src="https://github.com/gungorrbaris/gungorrbaris/blob/main/data-everywhere-data.gif" alt="gungorrbaris" height="300" width="600" /></p>
+<br>
 Hi, I'm Barış ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
 Data Analysis-Statistics
 ------------------------
-<p> <img align="center" src="https://github.com/gungorrbaris/gungorrbaris/blob/main/data-everywhere-data.gif" alt="gungorrbaris" height="300" width="600" /></p>
-<br>
+
 
 *   🌍  I'm based in Turkey, Ankara.
 *   🖥️  See my Blog at [https://gungorrbaris.github.io/](http://https://gungorrbaris.github.io/)
