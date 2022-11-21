@@ -3,7 +3,7 @@ Hi, I'm Barış ![](https://user-images.githubusercontent.com/18350557/176309783
 
 Data Analysis-Statistics
 ------------------------
-<p> <img align="center" src="https://github.com/gungorrbaris/gungorrbaris/blob/main/date-everywhere-data.gif" alt="gungorrbaris" height="300" width="300" /></p>
+<p> <img align="center" src="https://github.com/gungorrbaris/gungorrbaris/blob/main/date-everywhere-data.gif" alt="gungorrbaris" height="300" width="600" /></p>
 <br>
 
 *   🌍  I'm based in Turkey, Ankara.
