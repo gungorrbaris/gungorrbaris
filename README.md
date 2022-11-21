@@ -8,7 +8,7 @@ Data Analysis-Statistics
 
 
 *   🌍  I'm based in Turkey, Ankara.
-*   🖥️  See my Blog at [https://gungorrbaris.github.io/](http://https://gungorrbaris.github.io/)
+*   🖥️  See my Blog at [https://gungorrbaris.github.io/](https://gungorrbaris.github.io/)
 *   ✉️  You can contact me at [gungorrbaris@gmail.com](mailto:gungorrbaris@gmail.com)
 
 ### Skills 
