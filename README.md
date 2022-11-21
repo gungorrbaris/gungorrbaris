@@ -7,7 +7,7 @@ Data Analysis-Statistics
 ------------------------
 
 
-*   🌍  I'm based in Turkey, Ankara.
+*   🌍  I'm based in Ankara, Turkey
 *   🖥️  See my Blog at [https://gungorrbaris.github.io/](https://gungorrbaris.github.io/)
 *   ✉️  You can contact me at [gungorrbaris@gmail.com](mailto:gungorrbaris@gmail.com)
 
