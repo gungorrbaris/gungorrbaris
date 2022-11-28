@@ -59,5 +59,6 @@ Data Analysis-Statistics
 <a href="https://github.com/gungorrbaris" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gungorrbaris&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=onedark" alt="Top Languages" /></a>
 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="baris-gungor" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/baris-gungor?trk=profile-badge">Barış Güngör</a></div>
               
