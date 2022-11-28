@@ -43,8 +43,8 @@ Data Analysis-Statistics
 
 <b>Top Repositories</b>
 
-<div width="100%" align="leftr"><a href="https://github.com/gungorrbaris/TR-categorical.data.analysis.SURVEY-R "><img  src="https://github-readme-stats.vercel.app/api/pin/?username=gungorrbaris&repo=TR-categorical.data.analysis.SURVEY-R&theme=radical" /></a><br /><a href="https://github.com/gungorrbaris/TR-time.series.analysis-R ""><img src="https://github-readme-stats.vercel.app/api/pin/?username=gungorrbaris&repo=TR-time.series.analysis-R" /></a></div>
-<div width="100%" align="left"><a href="https://github.com/gungorrbaris/TR-regression-analysis-R " ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=gungorrbaris&repo=TR-regression-analysis-R" /></a><br /><a href="https://github.com/gungorrbaris/TR-nonparametric.statistics-R""><img   src="https://github-readme-stats.vercel.app/api/pin/?username=gungorrbaris&repo=TR-nonparametric.statistics-R" /></a> </div>
+<div width="100%" align="leftr"><a href="https://github.com/gungorrbaris/TR-categorical.data.analysis.SURVEY-R "><img  src="https://github-readme-stats.vercel.app/api/pin/?username=gungorrbaris&repo=TR-categorical.data.analysis.SURVEY-R&theme=dark" /></a><br /><a href="https://github.com/gungorrbaris/TR-time.series.analysis-R ""><img src="https://github-readme-stats.vercel.app/api/pin/?username=gungorrbaris&repo=TR-time.series.analysis-R&theme=dark" /></a></div>
+<div width="100%" align="left"><a href="https://github.com/gungorrbaris/TR-regression-analysis-R " ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=gungorrbaris&repo=TR-regression-analysis-R&theme=dark" /></a><br /><a href="https://github.com/gungorrbaris/TR-nonparametric.statistics-R""><img   src="https://github-readme-stats.vercel.app/api/pin/?username=gungorrbaris&repo=TR-nonparametric.statistics-R&theme=dark" /></a> </div>
 
 <br />
 </p>
